@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "parallelMCMCcombine"]
+	path = parallelMCMCcombine
+	url = https://github.com/cran/parallelMCMCcombine
+	shallow = true
+	registered = true
